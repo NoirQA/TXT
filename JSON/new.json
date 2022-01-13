@@ -1,0 +1,9 @@
+{
+	"name":"John Conner",
+	"age":"38",
+	"Pets":{
+		"one":"T2",
+		"two":"T1000"
+	},
+	"salary":"120000"
+}
