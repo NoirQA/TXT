@@ -1,8 +1,8 @@
 {
   "Application":"Microsoft Teams for Windows",
   "Steps":{
-"1":"Enter the call / meeting",
-"2":"Click on the microphone icon"
+            "1":"Enter the call / meeting",
+            "2":"Click on the microphone icon"
           },
 "Expected Result":"The Mute Sound prompts are swapping with each other",
 "Actual Result":"The Mute prompt is displayed for any microphone state"
